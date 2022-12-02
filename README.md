@@ -1,4 +1,4 @@
-# c25519
+# DediciVaporFluentToolbox
 
 This package is a toolbox built around https://github.com/vapor/vapor and was made in context of the development of the [Dediĉi_code project (fr)](https://www.dedici.org/dedici_code).
 
