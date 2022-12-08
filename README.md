@@ -2,6 +2,8 @@
 
 This package is a toolbox built around https://github.com/vapor/vapor and was made in context of the development of the [Dediĉi_code project (fr)](https://www.dedici.org/dedici_code).
 
+⚠️ Warning: Please do not use this package in any of your production projects as it is not yet ready for production. This package still needs more tests and reviews.
+
 ## License
 
 Licensed under GPLv3
